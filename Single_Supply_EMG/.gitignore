@@ -1,0 +1,21 @@
+# ---- KiCad backup / autosave / lock files ----
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*.lck
+*_autosave*
+*_backups/
+fp-info-cache
+*.kicad_prl
+
+# ---- Temporary or generated files ----
+*.tmp
+*.net        # old-style netlists
+*.xml
+*.csv
+*.rpt
+
+# ---- OS cruft ----
+.DS_Store
+Thumbs.db
