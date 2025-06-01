@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
+%TF.CreationDate,2025-06-01T15:03:30-04:00*%
+%TF.ProjectId,USB-C_LiPol_Charger,5553422d-435f-44c6-9950-6f6c5f436861,0*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-06-01 15:03:30*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X147850000Y-95250000D02*
+X178350000Y-95250000D01*
+X178350000Y-106750000D01*
+X147850000Y-106750000D01*
+X147850000Y-95250000D01*
+M02*
